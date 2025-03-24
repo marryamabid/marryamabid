@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Pakistan </h3>
 
 - 🌱 I’m currently learning **frontend Technologies**
-- 
+
 - ⚡ I am looking frontend roles at company.
   
 - 💬 Ask me about **JavaScript(React js)**

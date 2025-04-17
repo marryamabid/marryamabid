@@ -33,13 +33,13 @@
 ## GitHub Analytics
 
 <p align="center">
-	<a href="https://github.com/marryamabid">
-<!-- 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mabdullahgithub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marryamabid&layout=compact&langs_count=8&theme=algolia"/>
-	</a>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadabid&show_icons=true&locale=en&layout=demo&theme=algolia" />
+  <a href="https://github.com/marryamabid">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marryamabid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marryamabid&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=marryamabid&theme=algolia&hide_border=false"/>
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=marryamabid&label=Profile%20views&color=0e75b6&style=flat" />
 <!--## Contribution Graph-->
 <!-- ![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)-->
 

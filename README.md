@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marryam Abid</h1>
-<h3 align="center">A passionate frontend developer from Pakistan </h3>
+<h3 align="center">A passionate Web developer from Pakistan </h3>
 
-- 🌱 I’m currently learning **frontend Technologies**
+- 🌱 I’m currently learning **full Stack Technologies**
 
 - ⚡ I am looking frontend roles at company.
   
-- 💬 Ask me about **JavaScript(React js)**
+- 💬 Ask me about **React js, Node.js**
 
 - 📫 How to reach me **marryam.abid11@gmail.com**
 

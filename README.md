@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full Stack Technologies**
 
-- ⚡ I am looking frontend roles at company.
+- ⚡ I am looking for Software Engineering role at company.
   
 - 💬 Ask me about **React js, Node.js**
 

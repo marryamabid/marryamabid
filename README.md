@@ -1,51 +1,73 @@
-<h1 align="center">Hi 👋, I'm Marryam Abid</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan </h3>
+# Hi 👋, I'm Marryam Abid
 
-- 🌱 I’m currently learning **full Stack Technologies**
+### Software Engineer | Full-Stack & Backend Development 🇵🇰
 
-- ⚡ I am looking for Software Engineering role at company.
-  
-- 💬 Ask me about **React js, Node.js**
+I'm a Software Engineer and BBIT graduate passionate about building scalable web applications, reliable backend systems, and practical software solutions. I enjoy translating business requirements into maintainable software through clean architecture, efficient APIs, and thoughtful engineering.
 
-- 📫 How to reach me **marryam.abid11@gmail.com**
+## 🚀 What I'm Working On
 
-- ⚡ Fun fact **💡 BBIT graduate blending business logic with tech magic—coding with a strategy! 🚀**
-## Let's Connect
-<h3 align="left">Connect with me:</h3>
+- 💼 Working on building production fintech and multi-tenant business applications.
+- ⚙️ Developing backend services, REST APIs, database architectures, authentication, and third-party integrations.
+- 🤖 Exploring AI-powered features, LLM integrations, and automation workflows.
+- 🌱 Deepening my knowledge of system design, software architecture, and cloud technologies.
+- 💬 Ask me about React, Next.js, Node.js, REST APIs, PostgreSQL, and MongoDB.
 
-<br/>
+## 🛠️ Tech Stack
+
+**Frontend Development**
+- React.js, Next.js, JavaScript, TypeScript, Redux, HTML5, CSS3, Tailwind CSS
+
+**Backend Development**
+- Node.js, Express.js, Python, REST APIs, JWT Authentication, Google OAuth
+
+**Databases & ORM**
+- PostgreSQL, MongoDB, MySQL, Prisma, Sequelize
+
+**DevOps & Developer Tools**
+- Git, GitHub, Docker, GitHub Actions, Postman, Figma
+
+**Core Computer Science**
+- Data Structures & Algorithms, Object-Oriented Programming, SOLID Principles, Database Design
+
+**AI & Emerging Technologies**
+- LLM Integration, AI-powered Applications, Prompt Engineering, Exploring RAG and AI Agent Workflows
+
+## 📂 Featured Projects
+
+### 🏠 HomeLinker
+A full-stack MERN application focused on connecting users through a property-related platform.
+
+**Tech:** React.js, Node.js, Express.js, MongoDB
+
+### 📚 SmartLearn
+An educational application focused on delivering an interactive learning experience.
+
+**Tech:** Full-stack web technologies
+
+### 💧 AquaSmart
+A final-year project addressing water-related challenges and supporting sustainability goals.
+
+**Focus:** SDG 6 – Clean Water and Sanitation | SDG 13 – Climate Action
+
+*Explore my repositories for source code, implementation details, and project documentation.*
+
+## 🤝 Let's Connect
+
+- 📧 Email: [marryam.abid11@gmail.com](mailto:marryam.abid11@gmail.com)
+- 💼 LinkedIn: [Marryam Abid](https://www.linkedin.com/in/marryam-abid/)
+- 💻 GitHub: [@marryamabid](https://github.com/marryamabid)
+
+## 📊 GitHub Analytics
+
 <p align="center">
-	<a href="mailto:marryam.abid11@gmail.com">
-		<img  alt="marryam.abid11@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
-	</a>
-	<a href="https://www.linkedin.com/in/marryam-abid-a08b05279/">
-		<img alt="Marryam Abid| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-	<a href="https://github.com/marryamabid">
-		<img alt="Marryam Abid | GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-	</a>
-	<br />
-</p>     
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-## GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/marryamabid">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marryamabid&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marryamabid&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=marryamabid&theme=algolia&hide_border=false"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marryamabid&show_icons=true&theme=algolia&hide_border=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marryamabid&layout=compact&langs_count=6&theme=algolia&hide_border=true"/>
 </p>
-<img src="https://komarev.com/ghpvc/?username=marryamabid&label=Profile%20views&color=0e75b6&style=flat" />
-<!--## Contribution Graph-->
-<!-- ![Contribution Graph](./profile-3d-contrib/profile-gitblock.svg)-->
 
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=marryamabid&theme=algolia&hide_border=true"/>
+</p>
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%23FF00ED&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!;)](https://git.io/typing-svg)
-
+<p align="center">
+  <i>Building, learning, and improving one commit at a time. 🚀</i>
+</p>
